@@ -1,5 +1,6 @@
-*.csproj
+/*.csproj
 /Library
 /Logs
 /Temp
 /UserSettings
+/*.sln
